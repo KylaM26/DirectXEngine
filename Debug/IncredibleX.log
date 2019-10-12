@@ -1,0 +1,18 @@
+﻿  compilation object save succeeded; see D:\3DGraphics\DirectX\Engines\IncredibleX\Debug\vertexshader.cso
+  Engine.cpp
+  Graphics.cpp
+D:\3DGraphics\DirectX\Engines\IncredibleX\Includes\IncredibleMath.h(552,27): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\3DGraphics\DirectX\Engines\IncredibleX\Includes\IncredibleMath.h(552,27): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\3DGraphics\DirectX\Engines\IncredibleX\IncredibleX\Graphics.cpp(34,22): warning C4305:  '+=': truncation from 'double' to 'float'
+D:\3DGraphics\DirectX\Engines\IncredibleX\IncredibleX\Graphics.cpp(104,20): warning C4018:  '<': signed/unsigned mismatch
+D:\3DGraphics\DirectX\Engines\IncredibleX\IncredibleX\Graphics.cpp(181,19): warning C4244:  '=': conversion from 'int' to 'FLOAT', possible loss of data
+  Main.cpp
+D:\3DGraphics\DirectX\Engines\IncredibleX\IncredibleX\Graphics.cpp(181,44): warning C4244:  '=': conversion from 'int' to 'FLOAT', possible loss of data
+  RenderWindow.cpp
+D:\3DGraphics\DirectX\Engines\IncredibleX\Includes\IncredibleMath.h(552,27): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  WindowContainer.cpp
+D:\3DGraphics\DirectX\Engines\IncredibleX\Includes\IncredibleMath.h(552,27): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+D:\3DGraphics\DirectX\Engines\IncredibleX\Includes\IncredibleMath.h(552,27): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\3DGraphics\DirectX\Engines\IncredibleX\IncredibleX\WindowContainer.cpp(147): warning C4715:  'WindowContainer::WindowProc': not all control paths return a value
+  IncredibleX.vcxproj -> D:\3DGraphics\DirectX\Engines\IncredibleX\Debug\IncredibleX.exe

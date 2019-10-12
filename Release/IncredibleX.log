@@ -1,0 +1,31 @@
+﻿  compilation object save succeeded; see D:\3DGraphics\DirectX\Engines\IncredibleX\Release\pixelshader.cso
+  compilation object save succeeded; see D:\3DGraphics\DirectX\Engines\IncredibleX\Release\vertexshader.cso
+  AdapterReader.cpp
+  Engine.cpp
+  Graphics.cpp
+D:\3DGraphics\DirectX\Engines\IncredibleX\Includes\IncredibleMath.h(552,27): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\3DGraphics\DirectX\Engines\IncredibleX\Includes\IncredibleMath.h(552,27): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\3DGraphics\DirectX\Engines\IncredibleX\IncredibleX\Graphics.cpp(94,20): warning C4018:  '<': signed/unsigned mismatch
+D:\3DGraphics\DirectX\Engines\IncredibleX\IncredibleX\Graphics.cpp(171,19): warning C4244:  '=': conversion from 'int' to 'FLOAT', possible loss of data
+  Keyboard.cpp
+  KeyboardEvent.cpp
+  Logger.cpp
+  Main.cpp
+D:\3DGraphics\DirectX\Engines\IncredibleX\IncredibleX\Graphics.cpp(171,44): warning C4244:  '=': conversion from 'int' to 'FLOAT', possible loss of data
+  Mouse.cpp
+  MouseEvent.cpp
+  RenderWindow.cpp
+D:\3DGraphics\DirectX\Engines\IncredibleX\Includes\IncredibleMath.h(552,27): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  Shaders.cpp
+  StringConverter.cpp
+  Vertex.cpp
+D:\3DGraphics\DirectX\Engines\IncredibleX\Includes\IncredibleMath.h(552,27): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  WindowContainer.cpp
+D:\3DGraphics\DirectX\Engines\IncredibleX\Includes\IncredibleMath.h(552,27): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\3DGraphics\DirectX\Engines\IncredibleX\Includes\IncredibleMath.h(552,27): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\3DGraphics\DirectX\Engines\IncredibleX\IncredibleX\WindowContainer.cpp(147): warning C4715: 'WindowContainer::WindowProc': not all control paths return a value
+  All 598 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  IncredibleX.vcxproj -> D:\3DGraphics\DirectX\Engines\IncredibleX\Release\IncredibleX.exe
